@@ -1,5 +1,5 @@
-baseURL       = "http://example.org/"
-languageCode  = "en-us"
+baseURL       = "http://mellifluous-haupia-885bb4.netlify.app/"
+languageCode  = "ru-ru"
 title         = "Mahall Group Russia"
 theme         = "roxo-hugo-modified"
 summarylength = 25

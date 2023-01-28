@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Mahall Group Russia</title>
-    <link>http://example.org/contact/</link>
+    <link>http://mellifluous-haupia-885bb4.netlify.app/contact/</link>
     <description>Recent content in Contact on Mahall Group Russia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="http://example.org/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate><atom:link href="http://mellifluous-haupia-885bb4.netlify.app/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
