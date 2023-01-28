@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Немного статистики"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
-
-  - title: "Projects Completed"
+  - title: "Отзывов на Google"
     number: "100"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Средняя оценка"
+    number: "4.9"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Чашек чая с клиентами"
+    number: "2500"
+
+  - title: "Проведено консультаций"
+    number: "750"
