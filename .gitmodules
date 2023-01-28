@@ -1,4 +1,3 @@
 [submodule "themes/roxo-hugo-modified"]
 	path = themes/roxo-hugo-modified
-	url = git@github.com:vprsnc/roxo-hugo-modified.git
-	sshCommand = "ssh -i ~/.ssh/roxo-hugo-modified"
+	url = https://github.com/vprsnc/roxo-hugo-modified.git
