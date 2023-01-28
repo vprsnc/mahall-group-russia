@@ -1,4 +1,4 @@
-baseURL       = "http://mellifluous-haupia-885bb4.netlify.app/"
+baseURL       = "https://mellifluous-haupia-885bb4.netlify.app/"
 languageCode  = "ru-ru"
 title         = "Mahall Group Russia"
 theme         = "roxo-hugo-modified"

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Mahall Group Russia</title>
-    <link>http://mellifluous-haupia-885bb4.netlify.app/about/</link>
+    <link>https://mellifluous-haupia-885bb4.netlify.app/about/</link>
     <description>Recent content in About Us on Mahall Group Russia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="http://mellifluous-haupia-885bb4.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://mellifluous-haupia-885bb4.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
