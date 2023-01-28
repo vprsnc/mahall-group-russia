@@ -42,9 +42,9 @@ summarylength = 25
 
   # Contact Form
   [params.contactForm]
-    placeholder_first_name        = "First Name"
-    placeholder_last_name         = "Last Name"
-    placeholder_email             = "Email"
+    placeholder_first_name        = "Имя"
+    placeholder_last_name         = "Фамилия"
+    placeholder_email             = "Телефон"
     placeholder_project_type      = "Project Type"
     placeholder_about_the_project = "About the Project"
     send_message                  = "Send Message"
@@ -59,7 +59,7 @@ summarylength = 25
   # Navbar Action Button
   [params.navAction]
     status  = true
-    name    = "Get in touch"
+    name    = "Связаться с нами"
     url     = "contact"
   
 
@@ -76,16 +76,16 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
+    title     = "Наши Проекты"
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
+    title               = "Найдём недвижимосить под ваши цели?"
+    primary_button      = "Отправить запрос"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
+    secondary_button    = "Посмотреть проекты"
     secondary_button_url = "portfolio"
 
   [params.footer]
