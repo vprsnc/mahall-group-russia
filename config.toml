@@ -44,10 +44,10 @@ summarylength = 25
   [params.contactForm]
     placeholder_first_name        = "Имя"
     placeholder_last_name         = "Фамилия"
-    placeholder_email             = "Телефон"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
+    placeholder_email             = "Почта"
+    placeholder_tel               = "Телефон"
+    placeholder_about_the_project = "Сообщение (необязательно)"
+    send_message                  = "Отправить"
 
     [[params.contactForm.projectType]]
       value = "gd"
