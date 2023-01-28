@@ -1,7 +1,7 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Mahall Group Russia | Creative Design Agency"
-theme         = "roxo-hugo"
+title         = "Mahall Group Russia"
+theme         = "roxo-hugo-modified"
 summarylength = 25
 
 # Site Menus
