@@ -2,33 +2,33 @@ enable  : true
 title   : "Услуги, которые мы оказываем"
 subtitle: "Чем мы можем помочь вам"
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
+  - thumb : "images/testimonial/real-estate.png"
     name  : "Покупка недвижимости"
     # company_position: "CEO, Credito"
     quote : > 
             Поможем выбрать регион и проект, покажем варианты онлайн. Вместе с вами пройдем весь процесс сделки, от оценки до бла-бла.
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
+  - thumb : "images/testimonial/citizenship.png"
     name  : "Получение гражданства"
     quote : >
             Юридические консультанты составят для вас личный план получения гражданства на основе покупки недвижимости.
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
+  - thumb : "images/testimonial/investment.png"
     name  : "Инвестиции"
     quote : >
             Расскажем об особенностях рынка и поможем грамотно оценить проект и его потенциальную выгоду.
 
-  - thumb : "images/testimonial/user-thumb-four.jpg"
+  - thumb : "images/testimonial/lux-auto.png"
     name  : "Аренда премиум авто"
     quote : >
             Мы предлагает прокат автомобилей в Стамбуле. В коллекции — авто повышенного и премиум-класса.
 
-  - thumb : "images/testimonial/user-thumb-five.jpg"
+  - thumb : "images/testimonial/construction.png"
     name  : "Строительство"
     quote : >
            Мы предоставляем строительные услуги международного класса. Построим дом вашей мечты вместе!
 
-  - thumb : "images/testimonial/user-thumb-six.jpg"
+  - thumb : "images/testimonial/post-sales.png"
     name  : "Постпродажный сервис"
     quote : >
             Мы поможем сделать вашу жизнь в новой стране комфортной, а бизнес — успешным. Спектр услуг от переводов до управления недвижимостью.
