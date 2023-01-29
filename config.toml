@@ -77,7 +77,7 @@ summarylength = 25
   [params.portfolio]
     enable    = true
     title     = "Наши Проекты"
-    subtitle  = "Оьъекты недвижимости премиум класса."
+    subtitle  = ""
 
   [params.call_to_action]
     enable              = true
