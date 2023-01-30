@@ -82,7 +82,7 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "Найдём недвижимосить под ваши цели?"
+    title               = "Найдём недвижимость под ваши цели?"
     primary_button      = "Отправить запрос"
     primary_button_url  = "contact"
     secondary_button    = "Посмотреть проекты"
