@@ -3,7 +3,7 @@ title: "Avangard Istanbul"
 date: 2023-01-29T16:18:42+03:00
 type: portfolio
 category: ["Стамбул"]
-draft: false
+draft: true
 image: "images/projects/avangard-istanbul/avangard-istanbul-thumb.jpg"
 project_images: [ "images/projects/avangard-istanbul/avangard-istanbul-1.jpg"
                 , "images/projects/avangard-istanbul/avangard-istanbul-2.jpg"
