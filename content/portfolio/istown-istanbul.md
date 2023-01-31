@@ -4,9 +4,46 @@ date: 2023-01-30T20:56:43+03:00
 type: portfolio
 category: ["Стамбул"]
 draft: false
-image: "images/projects/istown-istanbul/istown-main.jpg"
-project_images: [ "images/projects/avangard-istanbul/avangard-istanbul-1.jpg" ]
+image: "images/projects/istown-istanbul/istown-istanbul-thumb.jpg"
 ---
 
+{{< img-post "title" "istown-istanbul-main.jpg" "istown-istanbul" "center">}}
 
-![istown-main](/images/projects/istown-istanbul/istown-main.jpg)
+Tevfik Bey, Akkus Sk. No: 6, 34295 Kucukcekmece/Istanbul				
+
+Самая доступная цена за квадратный метр в районе Mahmutbey. 
+Стартовая цена — 125 000$.
+
+### Локация
+
+Комплекс расположен в тихом районе центральной части Стамбула. 
+В пределах 10-15 минут — все необходимое для жизни: 8 школ, 3 университета, 9 шоппинг-моллов.
+Станция метро Mahmutbey — в 4 минутах.
+
+### О проекте
+
+10-этажный корпус İstown состоит из 80 просторных квартир формата 2+1 и 3+1. 
+
+Ввод в эксплуатацию — октябрь 2023.
+
+{{< img-post "title" "istown-istanbul-1.jpg" "istown-istanbul" "center">}}
+
+### Инфраструктура 
+
+На закрытой территории появятся зеленые сады для отдыха, дорожки для прогулок и бега, современные детские площадки.
+
+На первых этажах откроются магазины, кофейни, рестораны.
+
+Для жителей доступны:
+- Лобби с круглосуточной зоной ресепшн
+- SPA зона (соляная команата, хаммам, парная, сауна)
+- Тренажерный зал 
+- Пространства для творчества
+
+### Апартаменты
+
+Индивидуальные семейные планировки от 100 м² до 144 м². 
+Форматы 2+1 и 3+1. 
+На верхних этажах представлены двухуровневые квартиры с открытыми террасами.
+
+{{< img-post "title" "istown-istanbul-2.jpg" "istown-istanbul" "center">}}
