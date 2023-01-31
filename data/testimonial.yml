@@ -1,6 +1,6 @@
 enable  : true
-title   : "Услуги, которые мы оказываем"
-subtitle: "Чем мы можем помочь вам"
+title   : "Наша экспертиза"
+subtitle: ""
 testimonial_item :
   - thumb : "images/testimonial/real-estate.png"
     name  : "Покупка недвижимости"
