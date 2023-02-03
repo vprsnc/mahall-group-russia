@@ -67,8 +67,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/pexels-expect-best-darkened.jpg"
-    heading               = "Мы поможем выбрать и приобрести недвижимость в Турции под ваши цели"
-    tagline               = "Mahall Group — агентство недвижимости полного цикла"
+    heading               = "Mahall Group — агентство недвижимости полного цикла"
+    tagline               = "Мы поможем выбрать и приобрести недвижимость в Турции под ваши цели"
     primary_button        = "Посмотреть проекты"
     primary_button_url    = "portfolio"
     secondary_button      = "Связаться с нами"
