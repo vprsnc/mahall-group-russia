@@ -19,10 +19,10 @@ summarylength = 25
     name    = "Проекты"
     url     = "portfolio"
     weight  = 3
-  [[menu.nav]]
-    name    = "Блог"
-    url     = "blog"
-    weight  = 4
+  # [[menu.nav]]
+  #   name    = "Блог"
+  #   url     = "blog"
+  #   weight  = 4
   [[menu.nav]]
     name    = "Связаться с нами"
     url     = "contact"
@@ -104,9 +104,9 @@ summarylength = 25
         [[params.footer.sitemap.link]]
           name = "Наши проекты"
           url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "Блог"
-          url  = "blog"
+        # [[params.footer.sitemap.link]]
+        #   name = "Блог"
+        #   url  = "blog"
         [[params.footer.sitemap.link]]
           name = "Связаться с нами"
           url  = "contact"
