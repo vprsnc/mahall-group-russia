@@ -11,15 +11,10 @@ image: "images/projects/centric-istanbul/centric-istanbul-thumb.jpg"
 
 Tevfik Bey, Akkus Sk. No: 6, 34295 Kucukcekmece/Istanbul
 
-**От 283 000$**
-
-### Локация
+### О проекте
 
 Проект расположен в Стамбуле, в районе Кючюкчекмедже. 
-
 В пределах 10-15 минут от дома — 2 станции метро (Savakoy и Bahçelievler), 3 шоппинг-молла (Armonipark, Starcity AVM и 212 Outlet), 3 университета (Aydın University, Kultur University, Sabahattin Zaim University).
-
-### О проекте
 
 Жилой комплекс состоит из 2 корпусов и крытого паркинга. 
 Представлено 167 апартаментов 1+1, 2+1 и двухуровневые 3+1 с открытой террасой.
@@ -29,6 +24,8 @@ Tevfik Bey, Akkus Sk. No: 6, 34295 Kucukcekmece/Istanbul
 ### Инфраструктура 
 
 На закрытой территории предусмотрены открытый бассейн с зоной для солнечных ванн, места для пикников, детские площадки, баскетбольный стадион.
+
+{{< img-post "title" "centric-istanbul-2.jpg" "centric-istanbul" "center">}}
 
 Для жителей доступны:
 - Лобби с круглосуточной зоной ресепшн
@@ -42,11 +39,11 @@ Tevfik Bey, Akkus Sk. No: 6, 34295 Kucukcekmece/Istanbul
 - Детская комната
 - Прачечная
 
-{{< img-post "title" "centric-istanbul-1.jpg" "centric-istanbul" "center">}}
 
 ### Апартаменты
 
 Индивидуальные планировки от 81 м² до 225 м². Среди них 1+1, 2+1 и 3+1. На верхних этажах представлены двухуровневые квартиры с открытыми террасами. 
 
+{{< img-post "title" "centric-istanbul-1.jpg" "centric-istanbul" "center">}}
 
-{{< img-post "title" "centric-istanbul-2.jpg" "centric-istanbul" "center">}}
+
