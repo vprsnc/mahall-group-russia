@@ -115,7 +115,7 @@ summarylength = 25
         title   = "Мы в соцсетях"
         [[params.footer.social.link]]
           name = "VK"
-          url  = "#"
+          url  = "https://vk.com/public218552225"
         [[params.footer.social.link]]
           name = "Instagram"
           url  = "#"
