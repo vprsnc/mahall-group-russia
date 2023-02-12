@@ -19,6 +19,8 @@
   {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify }}
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
 
+  {{ partial "matomo-tracking" . }}
+
   <!--Favicon-->
   <link rel="shortcut icon" href="{{ "images/mahall-favicon.png" | absURL }}" type="image/x-icon" />
   <link rel="icon" href="{{ "images/mahall-favicon.ico" | absURL }}" type="image/x-icon" />

@@ -1,7 +1,7 @@
 baseURL       = "https://mahallgroup.ru/"
 languageCode  = "ru-ru"
 title         = "Mahall Group Russia"
-theme         = "roxo-hugo-modified"
+theme         = ["roxo-hugo-modified", "matomo"]
 summarylength = 25
 
 # Site Menus
@@ -38,7 +38,11 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  # fabform  = "https://fabform.io/f/USAg2Jl"
+
+[params.matomo]
+  url = "https://matomo.analytics-abc.xyz"
+  id = 1
 
   # Contact Form
   [params.contactForm]
